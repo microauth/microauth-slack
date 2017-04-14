@@ -21,7 +21,7 @@ yarn add microauth-slack
 app.js
 ```js
 const { send } = require('micro');
-const microAuthSlack = require('./index');
+const microAuthSlack = require('microauth-slack');
 
 const options = {
   clientId: 'CLIENT_ID',
