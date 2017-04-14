@@ -1,5 +1,7 @@
 # microauth-slack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/microauth/microauth-slack.svg)](https://greenkeeper.io/)
+
 > Slack oauth for [micro](https://github.com/zeit/micro/)
 
 [![Build Status](https://travis-ci.org/microauth/microauth-slack.svg?branch=master)](https://travis-ci.org/microauth/microauth-slack)
