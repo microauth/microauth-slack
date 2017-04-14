@@ -1,6 +1,6 @@
 # microauth-slack
 
-> slack oauth for [micro](https://github.com/zeit/micro/)
+> Slack oauth for [micro](https://github.com/zeit/micro/)
 
 [![Build Status](https://travis-ci.org/microauth/microauth-slack.svg?branch=master)](https://travis-ci.org/microauth/microauth-slack)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
