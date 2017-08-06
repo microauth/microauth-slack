@@ -49,7 +49,9 @@ const microAuthSlack = ({ clientId, clientSecret, callbackUrl, path = '/auth/sla
             client_id: clientId,
             // eslint-disable-next-line camelcase
             client_secret: clientSecret,
-            code
+            code,
+            // eslint-disable-next-line camelcase
+            redirect_uri: callbackUrl
           },
           json: true
         });
