@@ -1,5 +1,5 @@
 const { send } = require('micro');
-const microAuthSlack = require('./index');
+const microAuthSlack = require('.');
 
 const options = {
   clientId: 'CLIENT_ID',
