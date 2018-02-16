@@ -14,8 +14,8 @@
   "author": "Artem Karpovich",
   "license": "MIT",
   "devDependencies": {
-    "eslint-config-prettier": "^2.0.0",
-    "xo": "^0.18.1"
+    "eslint-config-prettier": "^2.9.0",
+    "xo": "^0.20.2"
   },
   "peerDependencies": {
     "micro": "^9.1.0"
