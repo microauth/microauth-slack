@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "micro-redirect": "^1.0.0",
-    "request": "^2.81.0",
+    "request": "^2.87.0",
     "request-promise": "^4.2.0",
     "uuid": "^3.0.1"
   },
